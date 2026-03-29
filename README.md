@@ -1,7 +1,3 @@
-Here is a **professional README.md** you can directly paste into your GitHub repository:
-GitHub → Vendor_Performance_Analysis
-
----
 
 # Vendor Performance Analysis 📊
 
